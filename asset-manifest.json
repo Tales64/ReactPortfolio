@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.30ea52ad.css",
-    "main.js": "/ReactPortfolio/static/js/main.edb3d3d3.js",
+    "main.js": "/ReactPortfolio/static/js/main.b5d0e71d.js",
     "static/js/787.e29dc422.chunk.js": "/ReactPortfolio/static/js/787.e29dc422.chunk.js",
     "static/media/Bookemon.gif": "/ReactPortfolio/static/media/Bookemon.68c5901aab2e0621462c.gif",
     "static/media/127.0.0.1_5500_Develop_index2.html.PNG": "/ReactPortfolio/static/media/127.0.0.1_5500_Develop_index2.html.0d163f2db4019e93b3c4.PNG",
@@ -9,13 +9,14 @@
     "static/media/Weather.PNG": "/ReactPortfolio/static/media/Weather.21dc634308c847009c19.PNG",
     "static/media/Profilesmall.png": "/ReactPortfolio/static/media/Profilesmall.74c00235d800513fc718.png",
     "static/media/gamehoard.PNG": "/ReactPortfolio/static/media/gamehoard.62e97f1a6e81d9461bb2.PNG",
+    "static/media/blog.PNG": "/ReactPortfolio/static/media/blog.98c062ac9c41da940f06.PNG",
     "index.html": "/ReactPortfolio/index.html",
     "main.30ea52ad.css.map": "/ReactPortfolio/static/css/main.30ea52ad.css.map",
-    "main.edb3d3d3.js.map": "/ReactPortfolio/static/js/main.edb3d3d3.js.map",
+    "main.b5d0e71d.js.map": "/ReactPortfolio/static/js/main.b5d0e71d.js.map",
     "787.e29dc422.chunk.js.map": "/ReactPortfolio/static/js/787.e29dc422.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30ea52ad.css",
-    "static/js/main.edb3d3d3.js"
+    "static/js/main.b5d0e71d.js"
   ]
 }
