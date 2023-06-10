@@ -4,7 +4,7 @@ import gameHoard from '../assets/gamehoard.PNG'
 import bookemon from '../assets/Bookemon.gif'
 import Refactoring from '../assets/127.0.0.1_5500_Develop_index2.html.PNG'
 import PlentifulPantry from '../assets/PlentifulPantry.PNG'
-import weatherDashboard from '../assets/weatherdashboard.PNG'
+import weatherDashboard from '../assets/Weather.PNG'
 // import Animation from 'Animation'
 
 
@@ -39,15 +39,22 @@ export default function Portfolio () {
                 </a>
             </div>
             <div className='portfolio-card' id='portfolio-card-4'>
-                <a href='' target="_blank" rel="noreferrer">
+                <a href='https://plentiful-pantry.herokuapp.com/api/users/login' target="_blank" rel="noreferrer">
                     <h5>Social Network API</h5>
                     <img src={PlentifulPantry} className="d-block w-100" alt="A social media API that returns user data as JSON"/>
                     <p>Utilizes a Mongo database to replicate social network functionality without a frontend.</p>
                 </a>
             </div>
             <div className='portfolio-card' id='portfolio-card-5'>
-                <a href="https://plentiful-pantry.herokuapp.com/api/users/login" target="_blank" rel="noreferrer">
-                    <h5>Plentiful Pantry</h5>
+                <a href="https://tales64.github.io/Weather-Updater/" target="_blank" rel="noreferrer">
+                    <h5>Weather or Not</h5>
+                    <img src={weatherDashboard} className="d-block w-100" id="README-img" alt="Console/command line app that generates a README file"/>
+                    <p>Allows a user to create a README file for their app in the console/command line through a series of prompts. Utilizes inquirer Node.js package.</p>
+                </a>
+            </div>
+            <div className='portfolio-card' id='portfolio-card-5'>
+                <a href="Weather" target="_blank" rel="noreferrer">
+                    <h5>Social Network API</h5>
                     <img src={weatherDashboard} className="d-block w-100" id="README-img" alt="Console/command line app that generates a README file"/>
                     <p>Allows a user to create a README file for their app in the console/command line through a series of prompts. Utilizes inquirer Node.js package.</p>
                 </a>
