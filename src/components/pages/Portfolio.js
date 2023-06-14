@@ -5,7 +5,8 @@ import bookemon from '../assets/Bookemon.gif'
 import Refactoring from '../assets/127.0.0.1_5500_Develop_index2.html.PNG'
 import PlentifulPantry from '../assets/PlentifulPantry.PNG'
 import weatherDashboard from '../assets/Weather.PNG'
-import Blognology from '../assets/blog.PGN'
+import Blognology from '../assets/blog.PNG'
+import Arcanum from '../assets/Arcanum.PNG'
 // import Animation from 'Animation'
 
 
@@ -54,9 +55,16 @@ export default function Portfolio () {
                 </a>
             </div>
             <div className='portfolio-card' id='portfolio-card-5'>
-                <a href="Weather" target="_blank" rel="noreferrer">
+                <a href="https://blognology.herokuapp.com/" target="_blank" rel="noreferrer">
                     <h5>Blognology</h5>
                     <img src={Blognology} className="d-block w-100" id="README-img" alt="Console/command line app that generates a README file"/>
+                    <p>Allows a user to create a README file for their app in the console/command line through a series of prompts. Utilizes inquirer Node.js package.</p>
+                </a>
+            </div>
+            <div className='portfolio-card' id='portfolio-card-5'>
+                <a href="https://goobber33.github.io/Arcanum/" target="_blank" rel="noreferrer">
+                    <h5>Arcanum</h5>
+                    <img src={Arcanum} className="d-block w-100" id="README-img" alt="Console/command line app that generates a README file"/>
                     <p>Allows a user to create a README file for their app in the console/command line through a series of prompts. Utilizes inquirer Node.js package.</p>
                 </a>
             </div>
